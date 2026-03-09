@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+media/
+
+# Environment
+.env
+venv/
+env/
+fin/
+
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+
+# Logs
+*.log
