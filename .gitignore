@@ -228,6 +228,9 @@ fin/
 
 # Node
 node_modules/
+public/
+/public
+
 
 # Logs
 *.log

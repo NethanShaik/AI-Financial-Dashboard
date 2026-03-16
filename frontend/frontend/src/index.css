@@ -4,6 +4,7 @@
 
 body {
   margin: 0;
+  justify-content:"center";
   font-family: system-ui, -apple-system, Arial, sans-serif;
-  background: #f5f7fb;
+  background: linear-gradient(to bottom right, rgb(255, 223, 98), white);
 }
